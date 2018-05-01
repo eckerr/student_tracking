@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Advisor.cfc" server="64.205.204.206" local="130617516509809839" remote="130631662800000000" Dst="1" />
+<file name="AdvStatus.cfc" server="64.205.204.206" local="130618352385062501" remote="130631662800000000" Dst="1" />
+<file name="Application.cfc" server="64.205.204.206" local="130630676139685769" remote="130631662800000000" Dst="1" />
+<file name="Building.cfc" server="64.205.204.206" local="130629123398441557" remote="130631662800000000" Dst="1" />
+<file name="Class.cfc" server="64.205.204.206" local="130630637832131684" remote="130631662800000000" Dst="1" />
+<file name="ClassEnd.cfc" server="64.205.204.206" local="130629131594197852" remote="130631662800000000" Dst="1" />
+<file name="ClassStart.cfc" server="64.205.204.206" local="130629130282155644" remote="130631662800000000" Dst="1" />
+<file name="Course.cfc" server="64.205.204.206" local="130629745268860981" remote="130631662800000000" Dst="1" />
+<file name="Datasource.cfc" server="64.205.204.206" local="130556127260532693" remote="130631662800000000" Dst="1" />
+<file name="Days.cfc" server="64.205.204.206" local="130629127098532506" remote="130631662800000000" Dst="1" />
+<file name="Day_order.cfc" server="64.205.204.206" local="130629128707578665" remote="130631662800000000" Dst="1" />
+<file name="EndTime.cfc" server="64.205.204.206" local="130629125192026757" remote="130631662800000000" Dst="1" />
+<file name="EnrollStat.cfc" server="64.205.204.206" local="130613605254044275" remote="130631662800000000" Dst="1" />
+<file name="Event.cfc" server="64.205.204.206" local="130631269050787464" remote="130631662800000000" Dst="1" />
+<file name="Gender.cfc" server="64.205.204.206" local="130613550569367642" remote="130631662800000000" Dst="1" />
+<file name="GradeLevel.cfc" server="64.205.204.206" local="130614484930368635" remote="130631662800000000" Dst="1" />
+<file name="Instructor.cfc" server="64.205.204.206" local="130631282428010935" remote="130631662800000000" Dst="1" />
+<file name="Major.cfc" server="64.205.204.206" local="130613408596500176" remote="130631662800000000" Dst="1" />
+<file name="ProgramCode.cfc" server="64.205.204.206" local="130630607060989314" remote="130631662800000000" Dst="1" />
+<file name="SAP.cfc" server="64.205.204.206" local="130613574610000000" remote="130631662800000000" Dst="1" />
+<file name="ShiftDescrip.cfc" server="64.205.204.206" local="130613605839859435" remote="130631662800000000" Dst="1" />
+<file name="StartTime.cfc" server="64.205.204.206" local="130629124636961806" remote="130631662800000000" Dst="1" />
+<file name="StatusDesc.cfc" server="64.205.204.206" local="130613604610000000" remote="130631662800000000" Dst="1" />
+<file name="Student.cfc" server="64.205.204.206" local="130613190987525481" remote="130631662800000000" Dst="1" />
+<file name="TermCode.cfc" server="64.205.204.206" local="130629132324897353" remote="130631662800000000" Dst="1" />
+<file name="Time.cfc" server="64.205.204.206" local="130613563135908248" remote="130631663400000000" Dst="1" />
+<file name="Week.cfc" server="64.205.204.206" local="130613515170394621" remote="130631663400000000" Dst="1" />
+</dwsync>

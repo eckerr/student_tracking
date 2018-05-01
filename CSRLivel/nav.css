@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+.indentmenu{
+font: bold 11px Arial;
+width: 100%; /*leave this value as is in most cases*/
+overflow: hidden;
+border: 1px solid #ed1c24;
+border-width: 1px 0;
+
+}
+
+.indentmenu ul{
+margin: 0;
+padding: 0;
+float: left;
+background: black url(images/grad1.png) center center repeat-x;
+}
+
+.indentmenu ul li{
+display: inline;
+}
+
+.indentmenu ul li a{
+float: left;
+color: black; /*text color*/
+padding: 5px 11px;
+text-decoration: none;
+border-right: 1px solid #564c66; /*dark purple divider between menu items*/
+}
+
+.indentmenu ul li a:visited{
+color: black;
+}
+
+.indentmenu ul li a:hover, .indentmenu ul li .current{
+color: black !important; /*text color of selected and active item*/
+padding-top: 6px; /*shift text down 1px for selected and active item*/
+padding-bottom: 4px; /*shift text down 1px for selected and active item*/
+background: black url(images/grad2.png) center center repeat-x;
+}
+
+li.selected a {
+	color: black !important; /*text color of selected and active item*/
+	padding-top: 6px; /*shift text down 1px for selected and active item*/
+	padding-bottom: 4px; /*shift text down 1px for selected and active item*/
+	background: black url(images/grad2.png) center center repeat-x;
+}
+
+a:link{
+	color: #4D4D4D;
+	text-decoration:none;
+}
+
+a:visited{
+	color: #ed1c24;
+	text-decoration: underline;
+}
+
+a:hover{
+	color: #ed1c24;
+	text-decoration: underline;
+}

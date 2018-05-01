@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+form {
+	width: 100%;
+	margin: 30px auto;
+}
+
+#formtitle {
+	text-align:center;
+	font-size:11px;
+}
+
+fieldset {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	margin: 0px auto;
+	padding: 15px 0;
+	color: #4D4D4D;
+	border: 1px solid #4D4D4D;
+	width: 400px;
+}
+
+label {
+	font-size: 11px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000;
+	width: 125px;
+	float: left;
+	text-align: right;
+	margin-right: 10px;
+	display: block;
+}
+
+input, textarea, select {
+	font-size: 11px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background-color: #ECDFDF;
+	border-style: inset;
+	color:#000;
+}
+
+
+input[type="checkbox"] {
+	border-width: 0px;
+	background-color: #ECDFDF;
+}
+
+.submit input{
+	margin-left: 0;
+	border-style: outset;
+	color:#000;
+}
+
+#formfooter {
+	text-align:center;
+	font-size: 1.1em;
+}

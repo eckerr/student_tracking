@@ -1,0 +1,21 @@
+   ('308840', 'Dziurgot', 'Daniel A.       ', 0, 5, 5, 0, 'Senior', 10, 25, 15, 3, 'DFVP', 'UNDG', 1, 1, 1, 2, 1, 1, 1, 'GEN247'),
+      ('403057', 'Falconer', 'Dustin J.       ', 0, 22, 18, 4, 'Sophmore', 5, 12, 11, 3, 'DFVP', 'UNDG', 1, 1, 0, 1, 0, 1, 1, 'GEN244'),
+      ('387138', 'Fetter', 'Matthew R.        ', 0, 20, 18, 2, 'Junior', 6, 12, 13, 4, 'DFVP', 'UNDG', 1, 1, 1, 2, 0, 1, 1, 'GEN248'),
+      ('445288', 'Fields', 'Tyler S         ', 0, 42, 29, 13, 'Freshman', 0, 1, 2, 3, 'DFVP', 'UNDG', 0, 0, 0, 0, 0, 1, 0, ''),
+      ('252849', 'Fleming', 'Nichollette       ', 0, 29, 24, 5, 'Sophmore', 4, 6, 10, 3, 'DFVP', 'UNDG', 1, 1, 0, 2, 0, 0, 0, 'GEN247'),
+      ('402120', 'Ford', 'Nakia A.          ', 0, 9, 9, 0, 'Senior', 9, 21, 15, 3, 'DFVP', 'UNDG', 1, 1, 1, 2, 1, 1, 1, 'GEN247'),
+      ('362303', 'Gilman', 'Bryce D.         ', 0, 37, 24, 13, 'Freshman', 2, 6, 2, 3, 'DFVP', 'UNDG', 0, 0, 0, 0, 0, 0, 0, ''),
+      ('282731', 'Glass', 'Ryan T.          ', 0, 32, 19, 13, 'Sophmore', 3, 11, 2, 3, 'DFVP', 'UNDG', 0, 0, 0, 0, 0, 0, 0, ''),
+      ('329159', 'Gonzalez', 'Brandon        ', 0, 39, 26, 13, 'Freshman', 1, 4, 2, 3, 'DFVP', 'UNDG', 0, 0, 0, 0, 0, 0, 0, ''),
+      ('378452', 'Grant', 'Dustin G.         ', 0, 25, 19, 6, 'Sophmore', 5, 11, 9, 3, 'DFVP', 'UNDG', 0, 1, 0, 2, 0, 0, 1, 'GEN248'),
+
+  ('373918', 'Wilson', 'Quintus D.        ', 0, 31, 22, 9, 'Sophmore', 3, 8, 6, 2, 'DFVP', 'UNDG', 0, 0, 1, 1, 0, 0, 0, 'GEN244'),
+      ('405042', 'Woolford', 'Joseph G.       ', 0, 17, 15, 2, 'Junior', 7, 15, 13, 3, 'DFVP', 'UNDG', 1, 1, 1, 2, 0, 1, 1, 'GEN247'),
+
+  ('359604', 'Taico', 'Javier A.         ', 0, 12, 8, 4, 'Junior', 8, 22, 11, 3, 'VFX ', 'UNDG', 1, 1, 0, 2, 0, 0, 1, 'GEN244'),
+      ('294156', 'Terlap', 'Blaze          ', 0, 15, 13, 2, 'Junior', 7, 17, 13, 3, 'VFX ', 'UNDG', 1, 1, 1, 1, 1, 1, 1, 'GEN244'),
+
+     ('382635', 'Terlecki', 'David M.        ', 0, 23, 16, 7, 'Sophmore', 5, 14, 8, 3, 'VFX ', 'UNDG', 1, 1, 0, 1, 0, 0, 0, 'GEN244'),
+
+,
+      ('435759', 'Thomas', 'Carrington L.      ', 0, 38, 24, 14, 'Freshman', 1, 6, 1, 3, 'VFX ', 'UNDG', 0, 0, 0, 0, 0, 0, 0, '')

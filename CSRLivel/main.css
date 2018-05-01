@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import URL(form.css);
+@import URL(nav.css);
+
+
+body {
+	background-image:url(images/Texture_lt_gray_004.png);
+	background-repeat:repeat;
+	background-position:top;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+h4 {
+	font-size: 8pt;
+	font-weight:bold;
+}
+
+#wrapper{
+	width: 955px;
+	margin: 0 auto;
+}
+
+#logo {
+		width: 275px;
+		height: 75px;
+		background-image:url(images/schaumburg_logo.gif);
+		background-repeat:no-repeat;
+		background-position:left;
+}
+
+#table_position {
+	width: 500px;
+	margin: 10px auto;
+}
+
+td, th {
+	text-align:center;
+}
+
+.left {
+	text-align:left;
+	padding-left: 3px;
+}
+
+#quad1 {
+	width: 475px;
+	height: 100px;
+	float: left;
+	
+}
+
+#quad2 {
+	width: 475px;
+	height: 100px;
+	float: right;
+
+}
+
+#quad3 {
+	width: 475px;
+	height: 200px;
+	float: left;
+	
+}
+
+#quad4{
+	width: 475px;
+	height: 200px;
+	float: left;
+	
+}
+#subdiv1{
+	width: 200px;
+	height: 200px;
+	float: left;
+	
+}
+#subdiv2{
+	width: 200px;
+	height: 200px;
+	float: right;
+	
+}
+
+#footer {
+	width:100%;
+	border-bottom: 3px solid #ed1c24;
+	text-align:right;
+	clear: both;
+	font: 9px verdana,sans-serif;
+	color:#999;
+	
+}

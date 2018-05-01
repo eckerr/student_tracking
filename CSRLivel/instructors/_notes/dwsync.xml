@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Application.cfm" server="64.205.204.206" local="130506959485107325" remote="129977748000000000" Dst="2" />
+<file name="add_new_event.cfm" server="64.205.204.206" local="130506959493357797" remote="129725460000000000" Dst="2" />
+<file name="add_student.cfm" server="64.205.204.206" local="130568374330275379" remote="130568407800000000" Dst="2" />
+<file name="edit_user_password.cfm" server="64.205.204.206" local="130506959504218419" remote="129725460000000000" Dst="2" />
+<file name="find_student.cfm" server="64.205.204.206" local="130506959509938746" remote="129150900000000000" Dst="2" />
+<file name="input_student.cfm" server="64.205.204.206" local="130506959521449404" remote="129725460000000000" Dst="2" />
+<file name="gen_validatorv31.js" server="64.205.204.206" local="130506959523149501" remote="129417876000000000" Dst="2" />
+<file name="process_event_update.cfm" server="64.205.204.206" local="130506959534420146" remote="129150900000000000" Dst="2" />
+<file name="process_user_password.cfm" server="64.205.204.206" local="130506959534450148" remote="129150900000000000" Dst="2" />
+<file name="save_event.cfm" server="64.205.204.206" local="130506959545250765" remote="129725460000000000" Dst="2" />
+<file name="save_student.cfm" server="64.205.204.206" local="130506959549411003" remote="129150900000000000" Dst="2" />
+</dwsync>
